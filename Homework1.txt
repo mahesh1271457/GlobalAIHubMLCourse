@@ -1,1 +1,28 @@
+# **1)How would you define Machine Learning?**
 
+     -Machine learning is an algorithm that allows computers to learn. Machine Learning is a subset of Artificial Intilligence.
+     - It is classified into two types :- 
+                                          1) SUPERVISED LEARNING         2)UNSUPERVISED LEARNING
+
+# **2) What are the differences between Supervised and Unsupervised Learning? Specify example 3 algorithms for each of these.**
+###  **SUPERVISED LEARNING**
+  
+     - Supervised Learing is a process of learning from the labelled training data by a machine.
+     - Supervised Learning is Classified into 2 types:-
+
+           1)Supervised Classification :- 
+     
+
+
+           2)Supervised Regression
+
+###  **UNSUPERVISED LEARNING**
+     - Unsupervised Learning is non labelled and unclarified information in analysis to discover hidden knowledge .
+     - Unsupervised learning classified into 1 type :
+           
+       1) Clusturing :-  It refers to a board set of techniques for finding subgroups,or clusters.
+
+3) What are the test and validation set, and why would you want to use them?
+4) What are the main preprocessing steps? Explain them in detail. Why we need to prepare our data?
+5) How you can explore countionus and discrete variables?
+6) Analyse the plot given below. (What is the plot and variable type, check the distribution and make comment about how you can preproccess it.)
