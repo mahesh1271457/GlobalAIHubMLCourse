@@ -1,10 +1,10 @@
-# **1)How would you define Machine Learning?**
+# 1)How would you define Machine Learning?
 
      -Machine learning is an algorithm that allows computers to learn. Machine Learning is a subset of Artificial Intilligence.
      - It is classified into two types :- 
                                           1) SUPERVISED LEARNING         2)UNSUPERVISED LEARNING
 
-# **2) What are the differences between Supervised and Unsupervised Learning? Specify example 3 algorithms for each of these.**
+# 2) What are the differences between Supervised and Unsupervised Learning? Specify example 3 algorithms for each of these.
 ###  **SUPERVISED LEARNING**
   
      - Supervised Learing is a process of learning from the labelled training data by a machine.
